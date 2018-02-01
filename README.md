@@ -5,13 +5,13 @@ This repository documents my class work and projects done for **CPS342**.
 
 1. **Personal Information**
 
-   * Name: *Lamisa Rahman*
+   Name: *Lamisa Rahman*
    
-   * Major: *Computer Engineering*
+   Major: *Computer Engineering*
    
-   * ID: *[N02988968](https://github.com/N02988968)*
+   ID: *[N02988968](https://github.com/N02988968)*
    
-   * Year: *Senior*
+   Year: *Senior*
    
 2. **Class Start Date:** January 22, 2018
 
