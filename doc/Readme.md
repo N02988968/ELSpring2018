@@ -1,1 +1,1 @@
-All documentations related to the projects will be in this folder.
+All documentations related to my projects will be in this folder.
