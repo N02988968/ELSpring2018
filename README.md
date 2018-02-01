@@ -3,7 +3,7 @@
 # Spring 2018 Embedded Linux Class
 This repository documents my class work and projects done for *CPS342*.
 
-1. **Personal Information
+1. **Personal Information**
 
    Name: *Lamisa Rahman*
    
